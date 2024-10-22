@@ -21,8 +21,6 @@ body{
     padding: 2%;
     text-align: center;
     
-    
-
 }
 .navbar a{
     text-decoration: none;
@@ -32,6 +30,10 @@ body{
 .navbar h1{
     color:#E6533C;
     
+}
+.nav-hmbar{
+    color: white;
+    display: none;
 }
 #home{
     background: #E6533C;
@@ -45,8 +47,7 @@ body{
 /* banner-section */
 .banner-section-main{
     max-width: 1400px;
-    
-    
+       
 }
 .banner-section-flex{
     width: 100%;
