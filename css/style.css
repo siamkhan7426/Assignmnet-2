@@ -186,23 +186,43 @@ body{
     max-width: 1200px;
     background-color: #222222;
     margin: 7% auto;
+    border-radius: 15px;
     
 }
 .run-main-parent{
     display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: row;
 }
 .run-section-titel{
-    width: 50%;
-    border: 2px solid red;
+    width: 45%;
+    
     
 }
 .run-section-titel img{
-    width: 80%;
+    width: 80%; 
+    padding: 15px 10px;
+    border-radius: 6%;
 }
 .run-section-titel h1{
     font-size: 3rem;
     color: #FFFFFF;
     text-align: start;
+    margin-bottom: 2%;
 
 }
+.run-section-titel p{
+    color: #FFFFFF80;
+    margin-bottom: 5%;
 
+}
+.run-btn{
+    background-color: #E6533C;
+    padding: 10px 40px;
+    border-radius: 42px;
+    border: none;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 1rem;
+}
