@@ -44,7 +44,7 @@ body{
 }
 /* navber end */
 
-/* banner-section */
+/* banner-section star */
 .banner-section-main{
     max-width: 1400px;
        
@@ -129,4 +129,54 @@ body{
     right: 31%;
    
 }
+/* banner-section end */
 
+/* habtis Section star */
+.habtis-titel-section{
+    text-align: center;
+}
+.habtis-titel-section h1{
+    color: #FFFFFF;
+    font-size: 3rem;
+    font-weight: bolder;
+    margin-bottom: 2%;
+
+}
+.habtis-titel-section p{
+    color: #FFFFFF80;
+}
+.habtis-banner-img-section-flex{
+    max-width: 1400px;
+    margin-top: 5%;
+    
+}
+
+.habtis-banner-img-section{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+    
+}
+
+.habitis-card img{
+    width: 50%;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-bottom: 5%;
+    
+}
+.habtis-banner-img-section h3{
+    color: #FFFFFF;
+    font-size: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.habitis-card p{
+    text-align: center;
+    color: #FFFFFF80;
+}
+/* habbit section end */

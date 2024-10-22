@@ -1,6 +1,8 @@
 
 
-
+@media screen and (max-width: 1200px) {
+    
+}
 
 @media screen and (max-width:570px) {
     .navbar h1{
@@ -32,4 +34,11 @@
         bottom: 27%;
         right: 44%;
     }
+    .habtis-main-section{
+        margin-top: 80%;
+    }
+    .habtis-banner-img-section{
+        grid-template-columns: repeat(2, 1fr);
+    }
 }
+
