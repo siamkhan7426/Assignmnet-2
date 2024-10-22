@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.main-header{
+    max-width: 1400px;
+    height: 715px;
+    background-color: rgb(17, 17, 17);
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    padding: 2%;
+    text-align: center;
+    
+    
+
+}
+.navbar a{
+    text-decoration: none;
+    color: #ffff;
+    margin-left: 2rem;
+}
+.navbar h1{
+    color:#E6533C;
+    
+}
+#home{
+    background: #E6533C;
+    border-radius: 45px;
+    padding: 5px 15px ;
+    text-align: center;
+
+}
