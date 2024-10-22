@@ -226,3 +226,22 @@ body{
     color: #FFFFFF;
     font-size: 1rem;
 }
+/* run section end */
+
+/* bmi - star */
+
+.bmi-titel{
+    text-align: center;
+    margin-top: 5%;
+}
+.bmi-titel h1{
+    color: #FFFFFF;
+    font-size: 3rem;
+    font-weight: bolder;
+    margin-bottom: 2%;
+}
+.bmi-titel p{
+    color: #FFFFFF;
+    margin-bottom: 10%;
+}
+
