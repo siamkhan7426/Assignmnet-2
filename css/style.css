@@ -180,3 +180,29 @@ body{
     color: #FFFFFF80;
 }
 /* habbit section end */
+
+/* run section star */
+.run-main-parent-section{
+    max-width: 1200px;
+    background-color: #222222;
+    margin: 7% auto;
+    
+}
+.run-main-parent{
+    display: flex;
+}
+.run-section-titel{
+    width: 50%;
+    border: 2px solid red;
+    
+}
+.run-section-titel img{
+    width: 80%;
+}
+.run-section-titel h1{
+    font-size: 3rem;
+    color: #FFFFFF;
+    text-align: start;
+
+}
+
