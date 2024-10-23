@@ -113,9 +113,20 @@
      margin-bottom: 3%;
 
  }
-
     .abt{
         margin-bottom: 10%;
+    }
+    .why-main-section-parent {
+        margin-top: 65%;
+    }
+    .why-titel{
+        padding-top: 5%;
+    }
+    .why-card-section p{
+        padding-bottom: 5%;
+    }
+    .why-section-child{
+        flex-direction: column;
     }
 
     }
