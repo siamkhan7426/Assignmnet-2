@@ -1,7 +1,10 @@
 
 
-@media screen and (max-width: 1200px) {
-
+@media screen and (max-width: 900px) {
+    .bmi-child-section-flex{
+        gap: 10%;
+        align-items: center;
+    }
 }
 
 @media screen and (max-width:570px) {
@@ -56,6 +59,20 @@
     border-radius: 6%;
     text-align: center;
 }
+.bmi-child-section-flex{
+    flex-direction: column;
+}
+.bmi-calculter h1{
+    text-align: center;
+    margin-top: 4%;
+}
+.bmi-calculter p{
+    margin-bottom: 5%;
+}
+
+
+
     }
+    
 
 
